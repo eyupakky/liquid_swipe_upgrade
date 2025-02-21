@@ -1,7 +1,7 @@
 name: liquid_swipe_upgrade
 description: "A new Flutter package project."
 version: 0.0.1
-author: "Eyüp Akkaya"
+homepage: https://github.com/eyupakky/liquid_swipe_upgrade.git
 
 environment:
   sdk: ^3.7.0
