@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/eyupakky/liquid_swipe_upgrade/master/assets/example.gif" width="310" height="640">
-<img src="https://raw.githubusercontent.com/eyupakky/liquid_swipe_upgrade/master/assets/another.gif" width="310" height="640">
+<img src="https://raw.githubusercontent.com/eyupakky/liquid_swipe_upgrade/refs/heads/main/example/assets/example.gif" width="310" height="640">
+<img src="https://raw.githubusercontent.com/eyupakky/liquid_swipe_upgrade/refs/heads/main/example/assets/another.gif" width="310" height="640">
 </p>
 
 # Table of contents
@@ -41,4 +41,4 @@
 * Add this to your `pubspec.yaml`
   ```yaml
   dependencies:
-    liquid_swipe_upgrade: ^0.0.2
+    liquid_swipe_upgrade: ^0.0.3
