@@ -41,4 +41,4 @@
 * Add this to your `pubspec.yaml`
   ```yaml
   dependencies:
-    liquid_swipe_upgrade: ^0.0.1
+    liquid_swipe_upgrade: ^0.0.2
